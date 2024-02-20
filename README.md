@@ -1,5 +1,5 @@
 # ⚡️ About Me:
-React Native developer. Currently working on a React Native mobile app for a marketplace
+React Native developer
 
 
 # 💻 Tech Stack:
